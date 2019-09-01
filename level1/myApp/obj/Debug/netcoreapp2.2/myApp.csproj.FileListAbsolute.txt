@@ -1,0 +1,11 @@
+/home/rayane/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/rayane/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/rayane/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/rayane/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/rayane/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/rayane/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/rayane/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/rayane/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/rayane/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/rayane/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/rayane/myApp/obj/Debug/netcoreapp2.2/myApp.pdb

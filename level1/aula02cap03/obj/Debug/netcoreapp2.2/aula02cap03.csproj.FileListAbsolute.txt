@@ -1,0 +1,11 @@
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/bin/Debug/netcoreapp2.2/aula02cap03.deps.json
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/bin/Debug/netcoreapp2.2/aula02cap03.runtimeconfig.json
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/bin/Debug/netcoreapp2.2/aula02cap03.runtimeconfig.dev.json
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/bin/Debug/netcoreapp2.2/aula02cap03.dll
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/bin/Debug/netcoreapp2.2/aula02cap03.pdb
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/obj/Debug/netcoreapp2.2/aula02cap03.csprojAssemblyReference.cache
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/obj/Debug/netcoreapp2.2/aula02cap03.csproj.CoreCompileInputs.cache
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/obj/Debug/netcoreapp2.2/aula02cap03.AssemblyInfoInputs.cache
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/obj/Debug/netcoreapp2.2/aula02cap03.AssemblyInfo.cs
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/obj/Debug/netcoreapp2.2/aula02cap03.dll
+/home/rayane/workspace/MackenzieC#/level1/aula02cap03/obj/Debug/netcoreapp2.2/aula02cap03.pdb
