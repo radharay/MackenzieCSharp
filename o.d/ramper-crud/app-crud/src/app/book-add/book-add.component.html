@@ -1,0 +1,40 @@
+<div class="card">
+    <div class="card-body">
+      <form [formGroup]="angForm" novalidate>
+        <div class="form-group">
+          <label class="col-md-4">Titulo do Livro</label>
+          <input type="text" class="form-control" formControlName="livro_name" #livro_name />
+        </div>
+        <div *ngIf="angForm.controls['livro_name'].invalid && (angForm.controls['livro_name'].dirty || angForm.controls['livro_name'].touched)" class="alert alert-danger">
+          <div *ngIf="angForm.controls['livro_name'].errors.required">
+            Titulo do livro obrigatório!
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-md-4">Autor(a) </label>
+          <input type="text" class="form-control" formControlName="autor_name" #autor_name />
+        </div>
+        <div *ngIf="angForm.controls['autor_name'].invalid && (angForm.controls['autor_name'].dirty || angForm.controls['autor_name'].touched)" class="alert alert-danger">
+          <div *ngIf="angForm.controls['autor_name'].errors.required">
+            Nome do autor(a) obrigatório!
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-md-4">Preço</label>
+          <input type="text" class="form-control" formControlName="valor_number" #valor_number />
+        </div>
+        <div *ngIf="angForm.controls['valor_number'].invalid && (angForm.controls['valor_number'].dirty || angForm.controls['valor_number'].touched)" class="alert alert-danger">
+          <div *ngIf="angForm.controls['valor_number'].errors.required">
+            Preço obrigatório!
+          </div>
+        </div>
+        <div class="form-group">
+          <button (click)="addLivraria(livro_name.value, autor_name.value, valor_number.value)"
+              [disabled]="angForm.pristine || angForm.invalid" 
+              class="btn btn-primary">
+              Add Livro
+           </button>
+      </div>
+      </form>
+    </div>
+  </div>

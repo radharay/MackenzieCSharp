@@ -1,0 +1,7 @@
+Instruções:
+
+- No terminal use o comando ng (ng - é uma ferramenta do proprio angular, que auxilia o desenvolvedor);
+- ng new nome-do-projeto (ng new cria um novo projeto);
+- no terminal, dentro do projeto: ng serve (abrirá o projeto na porta 4200)
+- criar componentes: ng generate component nome-do-componente;
+
